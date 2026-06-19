@@ -175,7 +175,5 @@ I'm always open to discussing AI projects, opportunities, or collaborations in m
 <div align="center">
   
   **Thanks for visiting my profile! Feel free to explore my repositories and reach out for collaborations!**
-  
-  ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Bhanuvedithreddy.Bhanuvedithreddy)
-  
+
 </div>
